@@ -1,11 +1,30 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello there, I'm Ken!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<font face="Arial" color=black size=6>**Qing** Li</font>  
+
+
+
+Postgraduate student, School of Intelligence Science and Technology, Xinjiang University
+
+![GAI and MADRL](/images/GAI-MADRL.png){:.align-right width="300px"}
+
+👋 Hello there. Welcome to Qing Li (李庆) / Ken Li Page. I'm a MS. student at the Xinjiang University.
+
+🔎 My research interests are in generative artificial intelligence and multiagent deep reinforcement learning.
+
+📚 I'm currently working toward my Master's Thesis in the field of Control Science and Engineering.
+
+🔬 I'm also interested in assisting others on their path in the world of Machine Learning and academia.
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
