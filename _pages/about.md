@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+
+
 <span style="font-family:Arial; color:black; font-size:2em;"><strong>Qing</strong> Li</span>
 
 
 
 Postgraduate student, School of Intelligence Science and Technology, Xinjiang University
 
-![GAI and MADRL](/images/GAI-MADRL.png){:.align-right width="300px"}
+![GAI and MADRL](/images/GAI-MADRL.png){:.align-right width="400px"}
 
 👋 Hello there. Welcome to Qing Li (李庆) / Ken Li Page. I'm a MS. student at the Xinjiang University.
 
