@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font face="Arial" color=black size=6>**Qing** Li</font>  
+<span style="font-family:Arial; color:black; font-size:2em;"><strong>Qing</strong> Li</span>
 
 
 
