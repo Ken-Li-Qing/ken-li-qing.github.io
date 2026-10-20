@@ -32,7 +32,7 @@ Postgraduate student, School of Intelligence Science and Technology, Xinjiang Un
 
 <span style="font-family:Arial; color:black; font-size:1.5em;"><strong>💡Open Source Contributions</strong></span>
 
-I have experience contribute to (导师谷歌学术) a large open-source project for odor source localization using Deep Reinforcement  Learning and Generative Artificial Intelligence.
+I have experience contribute to [Jie Yuan](https://www.scopus.com/authid/detail.uri?authorId=55709585800) a large open-source project for odor source localization using Deep Reinforcement  Learning and Generative Artificial Intelligence.
 
 Moreover, I have published a (respective paper论文链接) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
