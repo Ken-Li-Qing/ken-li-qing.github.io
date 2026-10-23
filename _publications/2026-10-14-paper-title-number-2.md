@@ -1,11 +1,11 @@
 ---
 title: "Generative AI-enhanced multiagent deep reinforcement learning for cooperative odor source localization"
-collection: published
+collection: 
 category: manuscripts
 permalink: /publication/2026-10-14-paper-title-number-2
 excerpt: 'This paper is about odor source localization using multi-agent RL.'
-date: 2026-10-14
-venue: 'Neurocomputing'
+date: 
+venue: ''
 slidesurl: 'https://ken-li-qing.github.io/files/slides2.pdf'
 paperurl: 'https://ken-li-qing.github.io/files/paper2.pdf'
 bibtexurl: 'https://ken-li-qing.github.io/files/bibtex2.bib'
