@@ -4,7 +4,7 @@ collection:
 category: manuscripts
 permalink: /publication/2026-10-14-paper-title-number-2
 excerpt: 'This paper is about odor source localization using multi-agent RL.'
-date: 
+date: 2026-10-14
 venue: ''
 slidesurl: 'https://ken-li-qing.github.io/files/slides2.pdf'
 paperurl: 'https://ken-li-qing.github.io/files/paper2.pdf'
