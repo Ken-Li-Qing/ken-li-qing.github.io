@@ -1,10 +1,7 @@
 ---
 title: "Autonomous odor source localization using event-driven deep reinforcement learning and transformer-based feature evaluation"
-category: manuscripts
 permalink: /publication/2025-12-30-paper-title-number-1
 excerpt: 'This paper is about single-agent odor source localization using RL. The second paper is left for future work in multi-agent RL.'
-date: 2025-12-30
-venue: 'Applied Soft Computing'
 slidesurl: 'https://ken-li-qing.github.io/files/slides1.pdf'
 paperurl: 'https://ken-li-qing.github.io/files/paper1.pdf'
 bibtexurl: 'https://ken-li-qing.github.io/files/bibtex1.bib'

@@ -14,7 +14,7 @@ redirect_from:
 
 
 
-Postgraduate student, School of Intelligence Science and Technology, Xinjiang University.
+Postgraduate student, School of Intelligent Science and Technology, Xinjiang University.
 
 ![GAI and MADRL](/images/GAI-MADRL.png){:.align-right width="400px"}
 
@@ -47,5 +47,4 @@ I have experience with independent research. I have implemented the Prioritized 
 To accompany this work, I have submitted a paper in the Applied Soft Computing Journal communicating the paper's theory and my results.
 
 Besides, I have utilized the Denoising Distribution Probabilistic Models to enhance policy network of Multi-agent Proximal Policy Optimization with simulation in CFD.
-
 

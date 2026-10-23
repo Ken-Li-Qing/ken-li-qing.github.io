@@ -1,5 +1,6 @@
 ---
 title: "Generative AI-enhanced multiagent deep reinforcement learning for cooperative odor source localization"
+collection: published
 category: manuscripts
 permalink: /publication/2026-10-14-paper-title-number-2
 excerpt: 'This paper is about odor source localization using multi-agent RL.'
