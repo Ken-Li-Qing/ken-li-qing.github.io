@@ -1,6 +1,6 @@
 ---
 title: "Autonomous odor source localization using event-driven deep reinforcement learning and transformer-based feature evaluation"
-collection: submitted
+collection: Submitted
 category: manuscripts
 permalink: /publication/2025-12-30-paper-title-number-1
 excerpt: 'This paper is about single-agent odor source localization using RL. The second paper is left for future work in multi-agent RL.'
