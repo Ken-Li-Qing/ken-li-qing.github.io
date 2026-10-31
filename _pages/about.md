@@ -30,7 +30,7 @@ Postgraduate student, School of Intelligent Science and Technology, Xinjiang Uni
 
 <span style="font-family:Arial; color:black; font-size:1.8em;"><strong>📢news</strong></span>
 
-<span style="font-family:Arial; color:black; font-size:1.3em;"><strong>Octorber 31, 2026   </strong></span>          Our [<span style="font-family:Times New Roman; color:LightCoral; font-size:1.2em;"><strong>Autonomous odor source localization using event-driven deep reinforcement learning and transformer-based feature evaluation   </strong></span>](https://doi.org/10.1016/j.asoc.2026.116781)paper is accepted by Applied Soft Computing (ASOC).
+<span style="font-family:Arial; color:black; font-size:1.3em;"><strong>Octorber 31, 2026   </strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our <a href="https://doi.org/10.1016/j.asoc.2026.116781" style="text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><span style="font-family:Times New Roman; color:LightCoral; font-size:1.2em;"><strong>Autonomous odor source localization using event-driven deep reinforcement learning and transformer-based feature evaluation</strong></span></a>&nbsp;paper is accepted by Applied Soft Computing (ASOC).
 
 
 
